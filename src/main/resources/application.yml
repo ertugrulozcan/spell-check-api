@@ -1,0 +1,11 @@
+server:
+  port: 6001
+
+spring:
+  application:
+    name: spell-check-api
+
+logging:
+  level:
+    root: INFO
+    org.dyg.spell-check: INFO
